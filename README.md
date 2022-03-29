@@ -3,6 +3,6 @@ Interface para análise de poucos dados do Brasil, com design inspirado em FUI (
 
 Caso queira ver apenas as animações de CSS, segue o link delas no meu CodePen:
 ##
-DNA Animataion: https://codepen.io/pedroo_andre/pen/jOYwXxe
+DNA Animation: https://codepen.io/pedroo_andre/pen/jOYwXxe
 ##
 CSS Hologram Earth: https://codepen.io/pedroo_andre/pen/KKZmNPK

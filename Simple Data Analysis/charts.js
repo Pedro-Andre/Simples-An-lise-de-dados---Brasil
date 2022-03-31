@@ -198,7 +198,7 @@ const scaleConfig = {
 };
 
 //Scale Chart Render
-const pieChart = new Chart(
-    document.getElementById('pieChart'),
+const comercioChart = new Chart(
+    document.getElementById('comercioChart'),
     scaleConfig
 );
